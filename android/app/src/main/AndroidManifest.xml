@@ -20,7 +20,7 @@
         android:icon="@mipmap/ic_launcher">
          <!-- Google Maps -->
                  <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAQaqmSo88KDY-ySZPSTOL263GZTMk4xCE"/>
+               android:value="AGREGAR API KEY GOOGLE"/>
         
         <activity
             android:name=".MainActivity"
